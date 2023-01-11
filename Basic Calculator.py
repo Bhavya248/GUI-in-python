@@ -1,22 +1,3 @@
-
-Bhavya248
-/
-python-patterns
-Public
-Code
-Issues
-Pull requests
-Actions
-Projects
-Wiki
-Security
-Insights
-Settings
-python-patterns/cala.py
-@Bhavya248
-Bhavya248 #
- 1 contributor
-149 lines (136 sloc)  4.03 KB
 from tkinter import *
 from math import *
 from tkinter import ttk
